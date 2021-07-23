@@ -1,4 +1,4 @@
-
+@media (prefers-color-scheme: dark) {
 .kix-page-content-wrapper,.kix-page-header, #speakernotes-workspace, .punch-filmstrip-controls-view-tab-bar, #filmstrip, .punch-filmstrip-controls{
     background-color: #838383 !important;
 }
@@ -80,4 +80,5 @@
 }
 .docs-gm .punch-filmstrip-thumbnail-pagenumber{
     fill: white !important;
+}
 }
