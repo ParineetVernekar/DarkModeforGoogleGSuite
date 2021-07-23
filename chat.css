@@ -1,0 +1,25 @@
+@media (prefers-color-scheme: dark) {
+    /* Chat background, header colours, header colours, sidebars, sidebars*/
+    .WQKmIb .Bl2pUd, .DWzK6d, .QTQg5e, .yxIv1d, .hqlnxe{
+        background-color:#1A1C23 !important;
+ 
+    }
+    /*, Message background*/
+    .oGsu4, .McQwEc, .HTZBof, .WQKmIb .IEIJqd .XganBc, .WQKmIb .byY7Yb, .UFgSJ, .Xs68kb, .ctDTIf, .pWhTUc, .PGrLhd, .wbJc4, .JMZuue, .Bl2pUd, .dsoUjb .jGyvbd .jO0Dzb{
+        background-color: #1A1C23 !important;
+    }
+    
+    /*Message Colour, Sender colour, Find More Text, Sidebar Sender Text, Group Name Text, Header Messager Name, Chat icons on right, active text, 'rooms', Text Field Placeholder  */
+    .cmEq8b .Zc1Emd, .cmEq8b .Z4BnXb .njhDLd, .HLTcjb, .Eb3cg .njhDLd, .jy2fzc, .wWf0Bc, .Nj8aCb.Nj8aCb, .gWTIDe, .aOHsTc, .Ct5IYc.qs41qe, .JHZPc, .H1pfJf, .xMqEEd, .nG9WVe, .cu2s6c, .vRMGwf, .pYcWjf, .bM00Xe, .PF8e1c, .OfkuDb .njhDLd, .jRv5Ke, .PGrLhd .NXfF8b, .W9bYdf{
+        color:#ffffff !important;
+        fill:#ffffff !important;
+
+    }
+    .nF6pT.FwR7Pc .iKCcE, .VYsRpc:hover, .dHI9xe.qs41qe, .ncFHed, .dHI9xe.KKjvXb{
+        background-color: #2B2E3B !important;
+    }
+
+    .d6pS5{
+        box-shadow : 0 12px 12px -2px #000000 !important;
+    }
+}

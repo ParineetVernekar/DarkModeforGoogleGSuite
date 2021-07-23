@@ -1,0 +1,39 @@
+@media (prefers-color-scheme: dark) {
+
+    /* Most of the background, everything dark*/
+.GyAeWb, .yg51vc, .appbar, .sfbgg, .sfbg, .s8GCU, .dXdtIf, .jZWadf, .Lj9fsd, .FoDaAb, .kp-blk, .I6TXqe, .q2eaDe, #tw-target, .FalWJb, .fbar {
+    background-color: #1A1C23 !important;
+}
+
+/*Accent color, mostly small areas*/
+.RNNXgb, .hjTnPc .F9PbJd, .gLSAk, .lst-c .sbib_a, .sbibod, .zthhpf{
+    background-color: #2B2F3B !important;
+
+}
+
+/* Pretty much all of the text in the search results */
+.gLFyf, .NjNcGc, .k4DMHe .xXEKkb, .garHBe, .frCXef, .pgRvse, .h3TRxf, .KLBmJ, .JolIg, html:not(.zAoYTe) .hide-focus-ring, .Ss2Faf, .ujudUb, .Eegi6c, .w8qArf .fl, .rVusze, .ILfuVd, .iJ1Kvb, a.fl:link, .cbphWd, #center_col .s2TyX.ueVdTc .iKt1P, .f3LoEf, .Cx1ZMc, .wqg8ad, .QnzgY, .kno-ecr-pt, .mDj5wd, .LjTgvd .AZCkJd, .oJc6P, .LjTgvd .di3YZe, .k4DMHe .xXEKkb, .Z0LcW, .iKJnec, .webanswers-webanswers_table__webanswers-table th, .webanswers-webanswers_table__webanswers-table td, .RqBzHd, .wf-b .XcVN5d, .dxR8gf .N6sL8d, .JpTGae, .kp-blk.c2xzTb .match-mod-horizontal-padding, .gL9Hy, .spell_orig, .L1jWkf, #Wprf1b, .b0KoTc, .dbg0pd, .J3Tg1d .tmS4cc .gadasb, .W8wzH, .KWQBje .JheGif, .gsfi, .JSAgYe{
+    color:#ffffff !important;
+}
+
+/* Some sub-text which is a slightly off-white*/
+.cXedhc, .WF4CUc, cite{
+    color: #cecece !important;
+}
+
+/* New links (anchor tags)*/
+a, .ksM6Mb{
+    color: #ababd4 !important   ;
+}
+
+/* Visited links*/
+a:visited{
+    color: #72728a !important;
+}
+
+/*IDK I FORGOT*/
+.IsZvec{
+    color: #cfcfcf !important;
+}
+
+}
