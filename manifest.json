@@ -6,7 +6,7 @@
     "content_scripts": [
       {
         "matches": ["https://www.google.com/*","http://docs.google.com/*","https://drive.google.com/*", "https://chat.google.com/*"], 
-        "css": ["google.css", "chat.css", "drive.css"]
+        "css": ["google.css", "chat.css", "drive.css", "docs.css"]
       }
     ]
   }

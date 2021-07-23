@@ -1,3 +1,4 @@
+@media (prefers-color-scheme: dark) {
 .v9czFf, .PEfnhb .i6Fqyc, .PEfnhb, .a-da-ub-ce, .a-da-U>.a-U-xc, .Kk7lMc-Yb-Il-j, .gb_3d, .a-l-Ba, .a-D-B .a-D-B-Lc-j, .tb9Ntf, .a-s-tb-pa, .aabwZd .N7iPof, .a-t-j .a-gd-j, .a-t-D, .aabwZd.fYenT .Tguc8d, .h-v-pc, .a-D-B-x, .a-da-Mf-B{
     background-color: #1A1C23 !important;
 }
@@ -6,7 +7,7 @@
     background-color: #2B2F3B !important;
 }
 
-.UPG3Ne, .KL4NAf, .tC8lxf, .VfPpkd-vQzf8d, .qam0ad, .eAQ1W, .N6Anec, .I2rTXb, .iZz7md, .l-t-T-V>.l-Ab-T-r, .a-t-D-V, .h-R-w-d.a-l-S-Pc-w-d>.h-R-w-d-ff, .o-Yc-o-T, .aabwZd.fYenT .Tguc8d, .M3pype, .ab-S-Wg, .HclN9d, .ObPBWd, .N1Qolf, .sd-ph .a-t-j .a-ok-Ji-ga, .a-v-T, .h-v-x, .a-em-ik-j, .a-Va-Zb-ga, .a-Va-Zb-vb, .h-R-w-d-ff, .a-Va-Zb-vb::placeholder, .sl-Zb-ha-sl-ga, .a-Va-Zb-urCF6c-ga  {
+.UPG3Ne, .KL4NAf, .tC8lxf, .VfPpkd-vQzf8d, .qam0ad, .eAQ1W, .N6Anec, .I2rTXb, .iZz7md, .l-t-T-V>.l-Ab-T-r, .a-t-D-V, .h-R-w-d.a-l-S-Pc-w-d>.h-R-w-d-ff, .o-Yc-o-T, .aabwZd.fYenT .Tguc8d, .M3pype, .ab-S-Wg, .HclN9d, .ObPBWd, .N1Qolf, .sd-ph .a-t-j .a-ok-Ji-ga, .a-v-T, .h-v-x, .a-em-ik-j, .a-Va-Zb-ga, .a-Va-Zb-vb, .h-R-w-d-ff, .a-Va-Zb-vb::placeholder, .sl-Zb-ha-sl-ga, .a-Va-Zb-urCF6c-ga, .OH0web  {
     color:white !important;
 }
 
@@ -39,3 +40,4 @@ svg{
   .a-Va-Zb-vb, .h-R-w-d.g-Qb{
       background: #1A1C23 !important;
   }
+}

@@ -1,0 +1,59 @@
+
+.kix-page-content-wrapper,.kix-page-header, #speakernotes-workspace, .punch-filmstrip-controls-view-tab-bar, #filmstrip{
+    background-color: #999999 !important;
+}
+
+/*Background, toolbar, ruler and header colour*/
+.docs-title-outer,  #docs-menubars, .docs-titlebar-buttons, .docs-titlebar,  #docs-branding-container, .docs-title-input-label, .docs-branding-documents, #docs-toolbar-wrapper, .docs-ruler-face, .docs-vertical-ruler, .docs-branding-documents, .kix-appview-editor, .docs-branding-spreadsheets, .docs-branding-presentations, #workspace-container, #docs-titlebar-container, .docs-title-widget{
+    background-color: #2B2E3B !important;
+}
+
+/*Turn In, comments and history colour*/
+.jfk-button-standard{
+    background-color:white !important;
+}
+
+/*Header text colour*/
+.goog-control, .docs-title-input-label-inner, .goog-toolbar-combo-button-input,  .goog-toolbar-menu-button-inner-box {
+    color:white !important;
+}
+
+/* Toolbar button colours */
+.goog-toolbar-menu-button-outer-box,.goog-toolbar-button-inner-box, .docs-material .goog-toolbar-button{
+    background-color:#1A1C23;
+    border:none;
+    color:white;
+}
+
+.docs-material .goog-toolbar-menu-button,.docs-material .goog-toolbar-button, .docs-material .goog-toolbar-combo-button, .docs-material .goog-toolbar-menu-button{
+    border-color:#2B2E3B !important;
+    background-color:#1A1C23 !important;
+    border-radius: 2px;
+}
+
+
+.docs-material .goog-toolbar-button{
+  border-color:#2B2E3B !important;
+  background-color:#1A1C23 !important;
+  border-radius: 2px;
+}
+.docs-gm .docs-menubar .goog-control-hover,.docs-gm .docs-menubar .goog-control-open{
+    background-color:#888888 !important;
+    color:white;
+}
+
+.docs-gm .docs-horizontal-ruler, .docs-gm #kix-vertical-ruler{
+    background-color:#2B2E3B !important;
+}
+
+.navigation-item-content{
+    color:white !important;
+}
+
+.outline-refresh #navigation-widget-bottom-fade{
+    background:none !important;
+}
+
+#navigation-widget-bottom-fade{
+    background: none !important;
+}
