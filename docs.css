@@ -1,10 +1,10 @@
 
-.kix-page-content-wrapper,.kix-page-header, #speakernotes-workspace, .punch-filmstrip-controls-view-tab-bar, #filmstrip{
+.kix-page-content-wrapper,.kix-page-header, #speakernotes-workspace, .punch-filmstrip-controls-view-tab-bar, #filmstrip, .punch-filmstrip-controls{
     background-color: #838383 !important;
 }
 
 /*Background, toolbar, ruler and header colour*/
-.docs-title-outer,  #docs-menubars, .docs-titlebar-buttons, .docs-titlebar,  #docs-branding-container, .docs-title-input-label, .docs-branding-documents, #docs-toolbar-wrapper, .docs-ruler-face, .docs-vertical-ruler, .docs-branding-documents, .kix-appview-editor, .docs-branding-spreadsheets, .docs-branding-presentations, #workspace-container, #docs-titlebar-container, .docs-title-widget, .companion-app-switcher-container, .docs-title-input{
+.docs-title-outer,  #docs-menubars, .docs-titlebar-buttons, .docs-titlebar,  #docs-branding-container, .docs-title-input-label, .docs-branding-documents, #docs-toolbar-wrapper, .docs-ruler-face, .docs-vertical-ruler, .docs-branding-documents, .kix-appview-editor, .docs-branding-spreadsheets, .docs-branding-presentations, #workspace-container, #docs-titlebar-container, .docs-title-widget, .companion-app-switcher-container, .docs-title-input, .punch-filmstrip-thumbnails, .docs-gm .grid-view .punch-filmstrip-scroll{
     background-color: #1A1C23 !important;
 }
 
@@ -77,4 +77,7 @@
 
 .docs-gm .goog-menu .goog-menuitem, .goog-dimension-picker div{
     color:white !important;
+}
+.docs-gm .punch-filmstrip-thumbnail-pagenumber{
+    fill: white !important;
 }
