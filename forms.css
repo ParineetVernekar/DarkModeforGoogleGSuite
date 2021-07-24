@@ -1,0 +1,16 @@
+@media (prefers-color-scheme: dark) {
+.docs-homescreen-container, body, .docs-homescreen-grid-header, .docs-homescreen-list-header, .docs-homescreen-grid-header, .docs-homescreen-list-header, .docs-homescreen-floater-header, .docs-homescreen-templates-bar, .docs-hs-tmp-expandedcontentholder-tabbarrow, .docs-hs-tmp-sch-content, .gb_Hc .gb_Cc{
+    background-color: #1A1C23 !important;
+
+}
+
+.docs-hs-tmp-contractedheader-text, .docs-homescreen-floater-header-title, .docs-homescreen-templates-templateview-title, .docs-homescreen-templates-bar-tabbed .docs-homescreen-templates-bar-header, .docs-hs-tmp-sc-default .docs-homescreen-grid-header-title.docs-homescreen-grid-header-title, .docs-homescreen-leftmenu-menuitem-text{
+    color:white !important;
+}
+
+
+.docs-hs-tmp-templatecontentholder-positioned, .gb_Te{
+    background-color: #2B2F3B !important;
+
+}
+}
