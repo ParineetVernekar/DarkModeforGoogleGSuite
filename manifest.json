@@ -6,6 +6,7 @@
     "content_scripts": [
       {
         "matches": ["https://www.google.com/*","https://docs.google.com/*","https://drive.google.com/*", "https://classroom.google.com/*", "https://mail.google.com/*", "https://calendar.google.com/*", "https://meet.google.com/*", "https://myaccount.google.com/*", "https://contacts.google.com/*", "https://mail.google.com/chat/*", "https://chat.google.com/*"], 
+        "exclude_matches":["https://mail.google.com/chat/"],
         "css": ["google.css", "chat.css", "drive.css", "docs.css", "classroom.css", "gmail.css", "forms.css", "calendar.css", "meet.css", "sites.css", "myaccount.css", "contacts.css"]
       }
     ]

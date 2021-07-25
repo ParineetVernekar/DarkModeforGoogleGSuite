@@ -1,3 +1,5 @@
+@media (prefers-color-scheme: dark) {
+
 .docs-homescreen-material-bar-enabled .docs-homescreen-leftmenu{
     background-color: #1A1C23 !important;
 }
@@ -9,4 +11,5 @@
 
 .docs-homescreen-templates-bar-header{
     color:white !important;
+}
 }

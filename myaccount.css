@@ -1,3 +1,5 @@
+@media (prefers-color-scheme: dark) {
+
 .x7WrMb, .jMPsJc, .fnfC4c, .uCK4Db, .GiKO7c, .bJCr1d, .Hm9Gzf, .ISnqu, .IQgWAe{
     color: white !important;
 }
@@ -15,4 +17,5 @@
 .mPKYhd, .Dn5CSc, .kFNik{
     color: #E0E0E0 !important;
 
+}
 }

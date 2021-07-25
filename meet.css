@@ -1,4 +1,6 @@
-.p2ZbV.zKHdkd, .hZ3uGe.KKjvXb:not(:disabled){
+@media (prefers-color-scheme: dark) {
+
+    .p2ZbV.zKHdkd, .hZ3uGe.KKjvXb:not(:disabled){
     background-color: #1A1C23 !important;
 
 }
@@ -14,4 +16,5 @@
 
 .Yi3Cfd, .WqFZne, .ynq40e{
     color: #E0E0E0 !important;
+}
 }
